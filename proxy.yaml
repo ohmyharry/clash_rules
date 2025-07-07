@@ -1,0 +1,4 @@
+payload:
+  # 补充的需要走科学的地址 
+  - DOMAIN,mirrors.vsean.net
+  - DOMAIN,greasyfork.com
