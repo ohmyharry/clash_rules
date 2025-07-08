@@ -5,7 +5,7 @@ payload:
   # private trackers
   #- DOMAIN,cinemageddon.net
   #- DOMAIN,pterclub.com
-  #- DOMAIN,avistaz.to
+  - DOMAIN,avistaz.to
   #- DOMAIN,rousi.zip
   #- DOMAIN,ptchina.org
   #- DOMAIN,pttime.org
