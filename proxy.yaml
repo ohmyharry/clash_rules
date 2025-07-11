@@ -10,3 +10,4 @@ payload:
   #- DOMAIN,ptchina.org
   - DOMAIN,www.haidan.video
   - DOMAIN,www.pttime.org
+  - DOMAIN-SUFFIX,civitai.com
